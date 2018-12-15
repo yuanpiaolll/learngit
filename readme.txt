@@ -3,4 +3,4 @@ Git is free software.
 this is  a new change
 hahah fuck
 ooo no
-it is a dev
+Creating a new branch is quick AND simple.
