@@ -11,9 +11,5 @@ hahah
 dev branch
 
 change
-<<<<<<< HEAD
 hahaha
 
-=======
-fuck
->>>>>>> f8bc73f30518e9a44d148589e1bccc9ed2eccdfc
